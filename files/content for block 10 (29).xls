@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<ss:Styles>
+<ss:Style ss:ID="OracleDate">
+<ss:NumberFormat ss:Format="dd/mm/yyyy\ hh:mm:ss"/>
+</ss:Style>
+</ss:Styles>
+<ss:Worksheet ss:Name="content_for_block">
+<ss:Table>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">Контентный номер</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">MSISDN</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">Дата и время последней SMS</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">Дата и время выборки</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998881388006</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:46:38.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998881431200</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:16:47.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998882076869</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:46:14.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998883221077</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:45:36.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998883268288</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:45:40.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998883470703</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:45:22.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998883913361</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:45:16.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998888021718</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:13:07.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998888049007</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:43:44.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998888468848</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:43:11.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998889220607</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:42:58.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998970339767</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:05:41.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998970400859</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:59:01.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998971115545</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:42:12.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998971499294</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:19:08.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998972222427</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:11:47.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998972225356</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:09:57.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998972558444</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:03:57.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998972874585</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:57:45.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998972882564</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:06:01.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998973277378</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:12:56.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998973361013</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:58:28.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998973370173</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:00:50.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998973741226</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-29T01:12:08.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998973811306</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-29T01:13:38.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998974060410</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:39:55.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998974182529</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:10:40.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998975063193</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:09:32.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998975069495</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:18:05.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998975249131</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:19:57.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998975571304</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:12:53.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998975792025</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:38:49.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998976336575</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:05:54.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998979081311</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T01:16:51.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">18888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998979520029</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:36:14.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998971790579</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:34:53.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998972003808</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:34:31.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998972268483</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:34:01.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998973805778</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:32:12.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998974060355</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:31:27.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998974193707</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:31:12.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998975847372</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:24:17.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998978489089</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:26:18.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">75423</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998979331052</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T00:25:27.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell>
+<ss:Data ss:Type="String">888</ss:Data>
+</ss:Cell>
+<ss:Cell>
+<ss:Data ss:Type="String">998973336345</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-29T22:35:18.000</ss:Data>
+</ss:Cell>
+<ss:Cell ss:StyleID="OracleDate">
+<ss:Data ss:Type="DateTime">2023-08-30T07:00:00.000</ss:Data>
+</ss:Cell>
+</ss:Row>
+</ss:Table>
+</ss:Worksheet>
+</ss:Workbook>
